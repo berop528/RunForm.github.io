@@ -11,6 +11,6 @@
                     isRed = !isRed;
                   }
                 
-                  // เริ่มการกระพริบทันที
-                  setInterval(blinkText, 500); // 1000 มีตราความเร็ว 1 วินาที
+                  
+                  setInterval(blinkText, 500); // 1000 = 1 วินาที
 
